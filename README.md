@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Yogesh-Jha
+- 👀 I’m interested in Problem Solving , Analytical thinking , Data Structures & Algorithms , Cinematography and Screen writing
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on Screen Writting
+- 📫 How to reach me jhayog8968@gmail.com
